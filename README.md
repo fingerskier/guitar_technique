@@ -34,8 +34,11 @@ Guitar technique guide
 ## Bowing
 
 ## Dynamics
-- finger volume
-- finger strike speed (contact time)
-- plectrum nixus
+- volume (strike intensity)
+  - finger
+  - plectrum
+- nixus (strike speed (contact time))
+  - finger
+  - plectrum
 - signal volume
 - signal tone-shaping
