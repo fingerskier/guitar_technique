@@ -11,6 +11,7 @@ Guitar technique guide
   - finger
   - palm
 - string crossing
+- trill
 
 ## Plucking
 - up-stroke
@@ -24,7 +25,9 @@ Guitar technique guide
   - synthetic harmonic
   - legato / sweeping
 - plectrum + nails
-
+- tremolo
+  - finger
+  - plectrum
 
 ## Tapping
 - two-hand coordination
