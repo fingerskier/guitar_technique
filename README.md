@@ -42,3 +42,8 @@ Guitar technique guide
   - plectrum
 - signal volume
 - signal tone-shaping
+
+
+
+
+###### fingerskier guitar technique © 2023 by Matthew Currier is licensed under CC BY-NC-SA 4.0 
