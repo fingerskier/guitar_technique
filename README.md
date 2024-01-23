@@ -13,6 +13,10 @@ Guitar technique guide
 - string crossing
 - trill
 
+## Striking
+- rasqueado
+- repicco
+
 ## Plucking
 - up-stroke
 - down-stroke
