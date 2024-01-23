@@ -13,7 +13,7 @@ Guitar technique guide
 - string crossing
 - trill
 
-## Striking
+## Strumming
 - rasqueado
 - repicco
 
