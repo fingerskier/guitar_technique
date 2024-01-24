@@ -50,6 +50,20 @@ Guitar technique guide
 - signal volume
 - signal tone-shaping
 
+## Voicings
+- timbre
+  - pluck near bridge
+  - pluck @ 24th fret
+  - pluck over fingerboard
+- force
+  - plectrum
+    - yaw
+    - roll
+  - finger
+    - curl
+    - pad/nail mix
+
+
 
 
 
