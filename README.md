@@ -62,8 +62,11 @@ Guitar technique guide
   - finger
     - curl
     - pad/nail mix
-
-
+- effects
+  - string overlap 
+  - slap
+  - buzz
+  - knock
 
 
 
