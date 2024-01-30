@@ -68,6 +68,12 @@ Guitar technique guide
   - buzz
   - knock
 
+## Ear
+- find all pitches of a note
+  - do this while someone fingers the note
+- play blindfolded
+- sing along with scales and arpeggios 
+
 
 
 ###### fingerskier guitar technique © 2023 by Matthew Currier is licensed under CC BY-NC-SA 4.0 
