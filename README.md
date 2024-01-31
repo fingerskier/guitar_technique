@@ -6,6 +6,7 @@ Guitar technique guide
 - barring
   - full
   - partial
+  - rolling- transition from a barre to a single note, or vice versa, while maintaining that note 
 - harmonic
 - muting
   - finger
